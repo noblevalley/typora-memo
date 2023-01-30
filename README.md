@@ -1,2 +1,2 @@
-# typora-memo
-(Japanese only) Memo storage created with typora
+# Markdown-memo
+(Japanese only) Memo storage created with MarkText
